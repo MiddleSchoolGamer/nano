@@ -1,5 +1,7 @@
 # nano.
+
 ORIGINAL PROJECT : https://github.com/titaniumnetwork-dev/nano. I DID NOTHING TO HELP
+
 A minimalist web proxy built to be simple yet powerful.
 
 Winner of the 2024 Proxathon.
